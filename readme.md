@@ -30,7 +30,7 @@ This project converts text from a file into speech using the Google Text-to-Spee
     python tts.py
     ```
 3. The script will generate an `talking.mp3` file and play it automatically.
-4. we can most definitely make the script so that it accepts input from user
+4. we can most definitely make the script so that it accepts input from user.
 
 ## Files
 
