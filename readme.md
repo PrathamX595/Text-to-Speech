@@ -1,6 +1,6 @@
 # Text-to-Speech (TTS) Project
 
-This project converts text from a file into speech using the Google Text-to-Speech (gTTS) library.
+This project converts text from a file into speech using the Google Text-to-Speech (gTTS) library
 
 ## Requirements
 
